@@ -56,7 +56,7 @@ By default, the app will look for the dataset at:
 
 ---
 
-##🤝 Acknowledgements
+## 🤝 Acknowledgements
 
 Special thanks to the team at the
 Strauss Center for International Security and Law (https://www.strausscenter.org/)
